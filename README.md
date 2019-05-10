@@ -10,7 +10,7 @@ Click the image to watch the demo in action:
 
 The following is the approximate order in which the files were created. Some files are conglomerates of multiple different code files and were edited well past their creation date.
 
-~38kHzLED.ino~         - Drives an IR LED at 38 kHz and checks the beam received by the IR Receiver with an indicator LED.
+'38kHzLED.ino'         - Drives an IR LED at 38 kHz and checks the beam received by the IR Receiver with an indicator LED.
 
 'UpdateMatrix.ino'      - Updates the LED Matrix based on the IR beam's state. Incorporates delays and counters to determine if beam is actually broken or if it was just a mistake.
 
