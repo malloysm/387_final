@@ -4,6 +4,7 @@ Final Project for ECE 387.
 This project interfaces a [W2812B LED Strip Matrix](https://github.com/malloysm/387_midterm), IR Beams, and an Arduino to track Gym Machine usage and statistics.
 
 Click the image to watch the demo in action:
+[![Watch the video](https://img.youtube.com/vi/YIKA2MfgbKQ/maxresdefault.jpg)](https://youtu.be/YIKA2MfgbKQ)
 
 
 ### Descriptions of Files Uploaded
